@@ -4,7 +4,7 @@
 
 This repository contains the Projects done during my Data Science Pro Degree Training Course at iMarticus, India. The [dataset folder](https://github.com/D-Satyajit/iMarticus-Projects/tree/master/Datasets) is having train and test datasets of Credit Risk and Bank Loan data. Following is the list of projects in Jupyter Notebook :
 
--  [Project-I Loss Estimation of Car Loan using Linear Regression](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Python%20Project-I%20Credit%20Risk%20using%20Logistic%20Regression.ipynb)
+-  [Project-I Loss Estimation of Car Loan using Linear Regression](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Project-I%20Loss%20Estimation%20using%20Linear%20Regression.ipynb)
 -  [Project-II Credit Risk using Logistic Regression](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Python%20Project-I%20Credit%20Risk%20using%20Logistic%20Regression.ipynb)
 -  [Project-III Credit Risk using SVM](https://github.com/D-Satyajit/iMarticus-Projects/blob/master/Python%20Project-II%20Credit%20Risk%20using%20SVM.ipynb)
 
